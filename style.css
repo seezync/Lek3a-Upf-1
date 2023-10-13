@@ -1,0 +1,32 @@
+body {
+	background-image: url(showcase.jpg);
+}
+
+h1 {
+	font-family: "Roboto Mono", monospace;
+	text-align: center;
+
+	background-color: yellow;
+	color: blue;
+	border: 2px solid black;
+}
+
+.artikel {
+	margin: 15px;
+	padding: 10px;
+
+	background-color: gray;
+	border: 2px solid black;
+}
+
+h2 {
+	text-align: center;
+}
+
+.sidfot {
+	background-image: url(logo-html-css-js.png);
+	background-repeat: no-repeat;
+	height: 250px;
+
+	margin-left: 650px;
+}
